@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy.Logging", "Galaxy.Lo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy.Monitoring", "Galaxy.Monitoring\Galaxy.Monitoring.csproj", "{04716A3B-4A68-4668-95AE-261ADFAA38C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy.Settings", "Galaxy.Settings\Galaxy.Settings.csproj", "{73771FF3-4294-4D74-B384-8BA70CB72E5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{04716A3B-4A68-4668-95AE-261ADFAA38C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04716A3B-4A68-4668-95AE-261ADFAA38C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04716A3B-4A68-4668-95AE-261ADFAA38C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73771FF3-4294-4D74-B384-8BA70CB72E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73771FF3-4294-4D74-B384-8BA70CB72E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73771FF3-4294-4D74-B384-8BA70CB72E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73771FF3-4294-4D74-B384-8BA70CB72E5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
