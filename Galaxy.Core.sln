@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy.Monitoring", "Galaxy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy.Settings", "Galaxy.Settings\Galaxy.Settings.csproj", "{73771FF3-4294-4D74-B384-8BA70CB72E5D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy.Repository", "Galaxy.Repository\Galaxy.Repository.csproj", "{1C12CAB7-00B3-4F58-B6A8-9B62F5265C97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy.Paging", "Galaxy.Paging\Galaxy.Paging.csproj", "{B37C2408-562C-4F8E-93FB-8F5653B7540B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{73771FF3-4294-4D74-B384-8BA70CB72E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73771FF3-4294-4D74-B384-8BA70CB72E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73771FF3-4294-4D74-B384-8BA70CB72E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C12CAB7-00B3-4F58-B6A8-9B62F5265C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C12CAB7-00B3-4F58-B6A8-9B62F5265C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C12CAB7-00B3-4F58-B6A8-9B62F5265C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C12CAB7-00B3-4F58-B6A8-9B62F5265C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B37C2408-562C-4F8E-93FB-8F5653B7540B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37C2408-562C-4F8E-93FB-8F5653B7540B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B37C2408-562C-4F8E-93FB-8F5653B7540B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37C2408-562C-4F8E-93FB-8F5653B7540B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
