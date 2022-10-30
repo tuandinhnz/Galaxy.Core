@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy.Repository", "Galaxy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy.Paging", "Galaxy.Paging\Galaxy.Paging.csproj", "{B37C2408-562C-4F8E-93FB-8F5653B7540B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy.Extensions", "Galaxy.Extensions\Galaxy.Extensions.csproj", "{5141EACA-4BB4-4C45-8018-9B5701E8B624}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{B37C2408-562C-4F8E-93FB-8F5653B7540B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B37C2408-562C-4F8E-93FB-8F5653B7540B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B37C2408-562C-4F8E-93FB-8F5653B7540B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5141EACA-4BB4-4C45-8018-9B5701E8B624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5141EACA-4BB4-4C45-8018-9B5701E8B624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5141EACA-4BB4-4C45-8018-9B5701E8B624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5141EACA-4BB4-4C45-8018-9B5701E8B624}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
